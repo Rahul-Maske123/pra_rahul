@@ -14,3 +14,5 @@ print(name[1:])       # is same as name[1:4]
 print(name[:3])
 print("Rahul2")
 print("Rahul new")
+print("New Modified")
+
