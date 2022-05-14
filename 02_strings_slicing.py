@@ -12,3 +12,5 @@ print(name[1:4])     #To Slice the string
 print(name[:4])      # is same as name[0:4]
 print(name[1:])       # is same as name[1:4]
 print(name[:3])
+print("Rahul2")
+print("Rahul new")
