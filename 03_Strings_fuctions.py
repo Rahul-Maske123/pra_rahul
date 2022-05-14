@@ -8,3 +8,5 @@ story="A paragraph is a series of related sentences developing a central idea, c
 #print(story.capitalize())
 print(story.replace("paragraph", "sentance"))
 print("Modifies")
+print(story.replace("paragraph", "sentance"))
+print("Modifies")
