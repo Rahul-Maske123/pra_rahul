@@ -4,7 +4,7 @@
                                     #Concatenating two strings
 #c=Greeting+name
 #print(c)
-
+#print(c)
 name="Rahul"
 #print(name[3])      #To access index of the string
 
@@ -16,4 +16,4 @@ print("Rahul2")
 print("Rahul new")
 print("New Modified")
 print("last")
-
+print("last")
